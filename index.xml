@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Profile Tour on Vijay Waghmare</title>
+    <link>https://vwaghmare111.github.io/</link>
+    <description>Recent content in Profile Tour on Vijay Waghmare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Apr 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://vwaghmare111.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Signal processing and time series classification (Multi-Class)</title>
+      <link>https://vwaghmare111.github.io/post/project-1/</link>
+      <pubDate>Sat, 03 Apr 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://vwaghmare111.github.io/post/project-1/</guid>
+      <description>Problem:
+Fatigue level is a psychological state which is difficult to gauge using non-invasive techniques. Data was taken from an existing research paper where 8 participants performed 3 different activities for 3 hours each. IMU and Heart Rate data was captured independent variables. RPE (Rating of Physical Exertion using Borg&amp;rsquo;s RPE scale) was used as dependent variable which was collected from each participant at 10 minutes time step.
+Challenges:
+ Data availability - Linear acceleration instead of triaxial acceleration.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Signal processing and time series classification (Binary-Class)</title>
+      <link>https://vwaghmare111.github.io/post/project-2/</link>
+      <pubDate>Fri, 02 Apr 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://vwaghmare111.github.io/post/project-2/</guid>
+      <description>Problem:
+Fatigue level is a psychological state which is difficult to gauge using non-invasive techniques. Data was taken from an existing research paper where 8 participants performed 3 different activities for 3 hours each. IMU and Heart Rate data was captured independent variables. RPE (Rating of Physical Exertion using Borg&amp;rsquo;s RPE scale) was used as dependent variable which was collected from each participant at 10 minutes time step.
+Challenges:
+ Data availability - Linear acceleration instead of triaxial acceleration.</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Signal processing and time series classification (Motion-Classification with 3 classes)</title>
+      <link>https://vwaghmare111.github.io/post/project-3/</link>
+      <pubDate>Thu, 01 Apr 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://vwaghmare111.github.io/post/project-3/</guid>
+      <description>Problem:
+Fatigue level is a psychological state which is difficult to gauge using non-invasive techniques. Data was taken from an existing research paper where 8 participants performed 3 different activities for 3 hours each. IMU and Heart Rate data was captured independent variables. RPE (Rating of Physical Exertion using Borg&amp;rsquo;s RPE scale) was used as dependent variable which was collected from each participant at 10 minutes time step.
+Challenges:
+ Data availability - Linear acceleration instead of triaxial acceleration.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://vwaghmare111.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vwaghmare111.github.io/contact/</guid>
+      <description>Social media contact:
+   Platform URL     LinkedIn: www.linkedin.com/in/vijay-waghmare-b1b90850    </description>
+    </item>
+    
+  </channel>
+</rss>
