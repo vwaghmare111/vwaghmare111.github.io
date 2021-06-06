@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R Sofware on Vijay Waghmare</title>
+    <link>https://vwaghmare111.github.io/rsoftware/</link>
+    <description>Recent content in R Sofware on Vijay Waghmare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Apr 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://vwaghmare111.github.io/rsoftware/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aggregation functions using R Software</title>
+      <link>https://vwaghmare111.github.io/rsoftware/proj-1/</link>
+      <pubDate>Wed, 31 Mar 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://vwaghmare111.github.io/rsoftware/proj-1/</guid>
+      <description>Objective: To predict Energy consumption using temperature and humidity of Kitchen and Outside, and Visibility (Five explanatory variables).
+Dataset: The ‘LasVegas’ dataset is a Multivariate dataset that provides details on 504 TripAdvisor reviews of the 21 hotels located in the Strip, Las Vegas.
+Models: Aggregation functions Weighted Arithmetic Mean (WAM), Weighted power means (WPM with p = 0.5 and 2), Ordered Weighted Average (OWA), and Choquet integral (Fuzzy measure) using R software.</description>
+    </item>
+    
+    <item>
+      <title>Probability, Bayesian Statistics, Clustering, Mixed Gaussian Distributions using R Software</title>
+      <link>https://vwaghmare111.github.io/rsoftware/proj-2/</link>
+      <pubDate>Wed, 31 Mar 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://vwaghmare111.github.io/rsoftware/proj-2/</guid>
+      <description>Objective: This was rigorous task involving solving problems mathematically manually and then by R programming. It covered basic topics from Probability, Bayesian Statistics, Clustering, Mixed Gaussian Distribution.
+Dataset: HeronIslandWaterTemp.csv IOCdata2020.txt LZIsData.csv
+Models: Linear regression, Kmeans clustering, NormalMix MOdels
+  Click for list of questions
+Click for complete solution
+Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Graph theory and Bayesian Network using R Software</title>
+      <link>https://vwaghmare111.github.io/rsoftware/proj-3/</link>
+      <pubDate>Tue, 30 Mar 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://vwaghmare111.github.io/rsoftware/proj-3/</guid>
+      <description>Objective: This was rigorous task involving solving problems using Graph theory and Bayesian network and its inference on hailfinder dataset.
+Dataset: hailfinder
+Models: Graph theory and Bayesian Network
+  Click for list of questions
+Click for complete solution
+Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Kmeans and Hierarchical Clustering</title>
+      <link>https://vwaghmare111.github.io/rsoftware/proj-4/</link>
+      <pubDate>Tue, 30 Mar 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://vwaghmare111.github.io/rsoftware/proj-4/</guid>
+      <description>Objective: Clustering customers based on Gender, Age, Education years, and Wages. Useful in demographic research in marketing or political analytics.
+Dataset: Wages datasets from Damodar Gujarati&amp;rsquo;s Econometrics Book
+Models: Kmeans and Hierarchical Clustering
+      Click for presentation on solution
+Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Stock market prediction - ARIMA and Holt&#39;s Winter Smoothing</title>
+      <link>https://vwaghmare111.github.io/rsoftware/proj-5/</link>
+      <pubDate>Tue, 30 Mar 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://vwaghmare111.github.io/rsoftware/proj-5/</guid>
+      <description>Objective: Comparison between ARIMA and Holt&amp;rsquo;s Winter Exponential Smoothing (With and Without trend)
+Dataset: Random time series data and Bharti Infratel stock (now ticker INDUSTOWER on NSE India)
+Models: ARIMA and Holt&amp;rsquo;s Winter Exponential Smoothing (With and Without trend)
+    Click for explantory comments
+Link to Github Repository</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,46 +1,206 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Profile Tour on Vijay Waghmare</title>
+    <title>Profile Tour  on Vijay Waghmare</title>
     <link>https://vwaghmare111.github.io/</link>
-    <description>Recent content in Profile Tour on Vijay Waghmare</description>
+    <description>Recent content in Profile Tour  on Vijay Waghmare</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Apr 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://vwaghmare111.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Jun 2021 11:00:59 -0400</lastBuildDate><atom:link href="https://vwaghmare111.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Project 1: Signal processing and time series classification (Multi-Class)</title>
+      <title>Stock price forecast</title>
+      <link>https://vwaghmare111.github.io/post/project-11/</link>
+      <pubDate>Tue, 01 Jun 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://vwaghmare111.github.io/post/project-11/</guid>
+      <description>Multivariate stock price forecast model
+ Daily data is used via Yahoo finance. Model is trained on 80% of the data. Significant lagged relationship between independent and dependent variables is identified. Number of forecast days is equal to number of significant lags. Model is mostly useful for swing traders usually with BTST (Buy today sell tomorrow) approach. Variables important to Value or Long term investors is not included.  Link to Web App</description>
+    </item>
+    
+    <item>
+      <title>Signal processing and time series classification (Motion-Classification with 3 classes)</title>
       <link>https://vwaghmare111.github.io/post/project-1/</link>
-      <pubDate>Sat, 03 Apr 2021 10:58:08 -0400</pubDate>
+      <pubDate>Sun, 30 May 2021 11:25:05 -0400</pubDate>
       
       <guid>https://vwaghmare111.github.io/post/project-1/</guid>
       <description>Problem:
-Fatigue level is a psychological state which is difficult to gauge using non-invasive techniques. Data was taken from an existing research paper where 8 participants performed 3 different activities for 3 hours each. IMU and Heart Rate data was captured independent variables. RPE (Rating of Physical Exertion using Borg&amp;rsquo;s RPE scale) was used as dependent variable which was collected from each participant at 10 minutes time step.
-Challenges:
- Data availability - Linear acceleration instead of triaxial acceleration.</description>
+Fatigue level is a psychological state which is difficult to gauge using non-invasive techniques. Data was taken from an existing research paper where 8 participants performed 3 different activities for 3 hours each. IMU and Heart Rate data was captured independent variables. RPE (Rating of Physical Exertion using Borg’s RPE scale) was used as dependent variable which was collected from each participant at 10 minutes time step.
+Source data is from the research paper &amp;ldquo;A data-driven approach to modeling physical fatigue in the workplace using wearable sensors&amp;rdquo;.</description>
     </item>
     
     <item>
-      <title>Project 2: Signal processing and time series classification (Binary-Class)</title>
+      <title>PySpark SQL - Classification and Clustering</title>
+      <link>https://vwaghmare111.github.io/post/project-7/</link>
+      <pubDate>Sat, 29 May 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://vwaghmare111.github.io/post/project-7/</guid>
+      <description>Recently, Kaggle (a data science community and competition platform) released one data set &amp;lsquo;FIFA19‘, which consists of 18K+ FIFA 19 player with around 90 attributes extracted from FIFA database. In this assessment task, we make it available as the data set 2020T2Data.csv.
+Tasks:
+Part 1: Exploratory Data Analysis Part 2: Clustering Analysis, and identify the position profiles of each cluster Part 3: Classification Analysis, and evaluate the performance of different algorithms using cross validation</description>
+    </item>
+    
+    <item>
+      <title>Human Activity Recognition Machine Learning models</title>
+      <link>https://vwaghmare111.github.io/post/project-10/</link>
+      <pubDate>Fri, 28 May 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://vwaghmare111.github.io/post/project-10/</guid>
+      <description>Objective of the data collection process Objective of the data collected for this experiment was Human Activity Recognition (HAR) which aims to identify the physical actions carried out by a person by sensing human body motion using smartphone’s (Galaxy S II smartphone) sensors (accelerometer and gyroscope).
+  There were 30 subjects (individuals) within age bracket of 19-48 years who performed Activities of Daily Living (ADL) with a waist-mounted smartphone embedded with inertial sensors in laboratory set-up.</description>
+    </item>
+    
+    <item>
+      <title>International Students Forecast using ARIMA and LSTM</title>
       <link>https://vwaghmare111.github.io/post/project-2/</link>
-      <pubDate>Fri, 02 Apr 2021 10:58:08 -0400</pubDate>
+      <pubDate>Thu, 27 May 2021 11:00:59 -0400</pubDate>
       
       <guid>https://vwaghmare111.github.io/post/project-2/</guid>
-      <description>Problem:
-Fatigue level is a psychological state which is difficult to gauge using non-invasive techniques. Data was taken from an existing research paper where 8 participants performed 3 different activities for 3 hours each. IMU and Heart Rate data was captured independent variables. RPE (Rating of Physical Exertion using Borg&amp;rsquo;s RPE scale) was used as dependent variable which was collected from each participant at 10 minutes time step.
-Challenges:
- Data availability - Linear acceleration instead of triaxial acceleration.</description>
+      <description>Due to black swan events like COVID-19 which calls for desperate measures during desperate time, i.e. sealing International Australian borders. Education sector has huge financial setback which is third largest contributor to Australian GDP. Thus, forecasting number of international students in 2021 and 2022, we can estimate financial loss or opportunity forgone. Data was taken from below website along with ARIMA and LSTM models in Python.
+https://internationaleducation.gov.au/research/international-student-data/Pages/InternationalStudentData2020.aspx
+  Link to Github Repository</description>
     </item>
     
     <item>
-      <title>Project 3: Signal processing and time series classification (Motion-Classification with 3 classes)</title>
+      <title>Deep Learning - CNN (My model, ResNet, VGG16) on Fashion Mnist and CIFAR10 dataset  </title>
+      <link>https://vwaghmare111.github.io/post/project-4/</link>
+      <pubDate>Wed, 26 May 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://vwaghmare111.github.io/post/project-4/</guid>
+      <description>Context
+The CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test images.
+The dataset is divided into five training batches and one test batch, each with 10000 images. The test batch contains exactly 1000 randomly-selected images from each class. The training batches contain the remaining images in random order, but some training batches may contain more images from one class than another.</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning - FCN on Fashion Mnist</title>
+      <link>https://vwaghmare111.github.io/post/project-5/</link>
+      <pubDate>Tue, 25 May 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://vwaghmare111.github.io/post/project-5/</guid>
+      <description>Context
+Fashion-MNIST is a dataset of Zalando&amp;rsquo;s article images—consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes. Zalando intends Fashion-MNIST to serve as a direct drop-in replacement for the original MNIST dataset for benchmarking machine learning algorithms. It shares the same image size and structure of training and testing splits.</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning - Descriptive statistics and NLP on JobPostings data from Kaggle</title>
+      <link>https://vwaghmare111.github.io/post/project-6/</link>
+      <pubDate>Mon, 24 May 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://vwaghmare111.github.io/post/project-6/</guid>
+      <description>Context In 2017, Kaggle (a data science community and competition platform) conducted a survey on a large range of users registered as the data scientist in their platform. The survey data are broadly covered the skill set of the data scientists, the demographic of the data scientists, the feedback of the platform and many other information.
+Tasks:
+Part 1: Given the following two data sets, you are required to finish some required analysis, with the exploreation data analytics skills as well as visuilization skills MCQResponses.</description>
+    </item>
+    
+    <item>
+      <title>Image classification - Clustering and dimensionality reduction</title>
+      <link>https://vwaghmare111.github.io/post/project-8/</link>
+      <pubDate>Sun, 23 May 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://vwaghmare111.github.io/post/project-8/</guid>
+      <description>Clustering and dimensionality reduction on digits dataset using sklearn library. This dataset contains 8x8 pixel images of digits 0-9.
+Link to PDF File
+Link to Github Repository
+    </description>
+    </item>
+    
+    <item>
+      <title>Binary and Multiclass classification Machine Learning models</title>
+      <link>https://vwaghmare111.github.io/post/project-9/</link>
+      <pubDate>Sat, 22 May 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://vwaghmare111.github.io/post/project-9/</guid>
+      <description>Objective of this task was to hyper tuning of Logistic Regression for binary and multiclass classification. Wisconsin Breast Cancer for binary classification and Mnist dataset for multiclass classification was used.
+Link to HTML File
+Link to Github Repository
+  </description>
+    </item>
+    
+    <item>
+      <title>Machine Learning Deployment (Heroku App)</title>
       <link>https://vwaghmare111.github.io/post/project-3/</link>
-      <pubDate>Thu, 01 Apr 2021 10:58:08 -0400</pubDate>
+      <pubDate>Fri, 21 May 2021 11:00:59 -0400</pubDate>
       
       <guid>https://vwaghmare111.github.io/post/project-3/</guid>
-      <description>Problem:
-Fatigue level is a psychological state which is difficult to gauge using non-invasive techniques. Data was taken from an existing research paper where 8 participants performed 3 different activities for 3 hours each. IMU and Heart Rate data was captured independent variables. RPE (Rating of Physical Exertion using Borg&amp;rsquo;s RPE scale) was used as dependent variable which was collected from each participant at 10 minutes time step.
-Challenges:
- Data availability - Linear acceleration instead of triaxial acceleration.</description>
+      <description>Salary prediction using Linear Regression model on demo dataset available on Kaggle.
+Credits: Youtube video by Mr. Krish Naik. Appreciate your efforts on wonderful tutorial!!   Link to Deployed ML model
+Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Aggregation functions using R Software</title>
+      <link>https://vwaghmare111.github.io/rsoftware/proj-1/</link>
+      <pubDate>Wed, 31 Mar 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://vwaghmare111.github.io/rsoftware/proj-1/</guid>
+      <description>Objective: To predict Energy consumption using temperature and humidity of Kitchen and Outside, and Visibility (Five explanatory variables).
+Dataset: The ‘LasVegas’ dataset is a Multivariate dataset that provides details on 504 TripAdvisor reviews of the 21 hotels located in the Strip, Las Vegas.
+Models: Aggregation functions Weighted Arithmetic Mean (WAM), Weighted power means (WPM with p = 0.5 and 2), Ordered Weighted Average (OWA), and Choquet integral (Fuzzy measure) using R software.</description>
+    </item>
+    
+    <item>
+      <title>LasVegas: Tableau Dashboard</title>
+      <link>https://vwaghmare111.github.io/dashboards/dashboard-1/</link>
+      <pubDate>Wed, 31 Mar 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://vwaghmare111.github.io/dashboards/dashboard-1/</guid>
+      <description>Objective: To create interactive dashboard for a client.
+Dataset: The ‘LasVegas’ dataset is a Multivariate dataset that provides details on 504 TripAdvisor reviews of the 21 hotels located in the Strip, Las Vegas.
+Audience: User of the dashboard created using Las Vegas dataset is Chris Brooks, manager at Wyndham Grand Desert (3-Star hotel) who is keen to perform SWOT analysis based on travelers’ feedback (review score). Chris would like to assess Wyndham’s strengths, weaknesses, opportunities, and threats with respect to other 3-Star hotels in the region (competitors).</description>
+    </item>
+    
+    <item>
+      <title>Probability, Bayesian Statistics, Clustering, Mixed Gaussian Distributions using R Software</title>
+      <link>https://vwaghmare111.github.io/rsoftware/proj-2/</link>
+      <pubDate>Wed, 31 Mar 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://vwaghmare111.github.io/rsoftware/proj-2/</guid>
+      <description>Objective: This was rigorous task involving solving problems mathematically manually and then by R programming. It covered basic topics from Probability, Bayesian Statistics, Clustering, Mixed Gaussian Distribution.
+Dataset: HeronIslandWaterTemp.csv IOCdata2020.txt LZIsData.csv
+Models: Linear regression, Kmeans clustering, NormalMix MOdels
+  Click for list of questions
+Click for complete solution
+Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Graph theory and Bayesian Network using R Software</title>
+      <link>https://vwaghmare111.github.io/rsoftware/proj-3/</link>
+      <pubDate>Tue, 30 Mar 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://vwaghmare111.github.io/rsoftware/proj-3/</guid>
+      <description>Objective: This was rigorous task involving solving problems using Graph theory and Bayesian network and its inference on hailfinder dataset.
+Dataset: hailfinder
+Models: Graph theory and Bayesian Network
+  Click for list of questions
+Click for complete solution
+Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Kmeans and Hierarchical Clustering</title>
+      <link>https://vwaghmare111.github.io/rsoftware/proj-4/</link>
+      <pubDate>Tue, 30 Mar 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://vwaghmare111.github.io/rsoftware/proj-4/</guid>
+      <description>Objective: Clustering customers based on Gender, Age, Education years, and Wages. Useful in demographic research in marketing or political analytics.
+Dataset: Wages datasets from Damodar Gujarati&amp;rsquo;s Econometrics Book
+Models: Kmeans and Hierarchical Clustering
+      Click for presentation on solution
+Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Stock market prediction - ARIMA and Holt&#39;s Winter Smoothing</title>
+      <link>https://vwaghmare111.github.io/rsoftware/proj-5/</link>
+      <pubDate>Tue, 30 Mar 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://vwaghmare111.github.io/rsoftware/proj-5/</guid>
+      <description>Objective: Comparison between ARIMA and Holt&amp;rsquo;s Winter Exponential Smoothing (With and Without trend)
+Dataset: Random time series data and Bharti Infratel stock (now ticker INDUSTOWER on NSE India)
+Models: ARIMA and Holt&amp;rsquo;s Winter Exponential Smoothing (With and Without trend)
+    Click for explantory comments
+Link to Github Repository</description>
     </item>
     
     <item>
@@ -50,7 +210,7 @@ Challenges:
       
       <guid>https://vwaghmare111.github.io/contact/</guid>
       <description>Social media contact:
-   Platform URL     LinkedIn: www.linkedin.com/in/vijay-waghmare-b1b90850    </description>
+   Platform URL     LinkedIn: https://www.linkedin.com/in/vijay-waghmare-b1b90850    </description>
     </item>
     
   </channel>
