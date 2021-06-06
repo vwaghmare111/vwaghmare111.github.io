@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dashboards on Vijay Waghmare</title>
+    <link>https://vwaghmare111.github.io/dashboards/</link>
+    <description>Recent content in Dashboards on Vijay Waghmare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Apr 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://vwaghmare111.github.io/dashboards/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LasVegas: Tableau Dashboard</title>
+      <link>https://vwaghmare111.github.io/dashboards/dashboard-1/</link>
+      <pubDate>Wed, 31 Mar 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://vwaghmare111.github.io/dashboards/dashboard-1/</guid>
+      <description>Objective: To create interactive dashboard for a client.
+Dataset: The ‘LasVegas’ dataset is a Multivariate dataset that provides details on 504 TripAdvisor reviews of the 21 hotels located in the Strip, Las Vegas.
+Audience: User of the dashboard created using Las Vegas dataset is Chris Brooks, manager at Wyndham Grand Desert (3-Star hotel) who is keen to perform SWOT analysis based on travelers’ feedback (review score). Chris would like to assess Wyndham’s strengths, weaknesses, opportunities, and threats with respect to other 3-Star hotels in the region (competitors).</description>
+    </item>
+    
+  </channel>
+</rss>
