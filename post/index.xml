@@ -14,7 +14,7 @@
       
       <guid>https://vwaghmare111.github.io/post/project-11/</guid>
       <description>Multivariate stock price forecast model
- Daily data is used via Yahoo finance. Model is trained on 80% of the data. Significant lagged relationship between independent and dependent variables is identified. Number of forecast days is equal to number of significant lags. Model is mostly useful for swing traders usually with BTST (Buy today sell tomorrow) approach. Variables important to Value or Long term investors is not included.  Link to Web App</description>
+ Daily data is used via Yahoo finance. Model is trained on 80% of the data. Significant lagged relationship between independent and dependent variables is identified. Number of forecast days is equal to number of significant lags. Model is mostly useful for swing traders usually with BTST (Buy today sell tomorrow) approach. Variables important to Value or Long term investors are not included.  Link to Web App</description>
     </item>
     
     <item>
