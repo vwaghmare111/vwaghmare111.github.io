@@ -18,5 +18,17 @@ Dataset: The ‘LasVegas’ dataset is a Multivariate dataset that provides deta
 Audience: User of the dashboard created using Las Vegas dataset is Chris Brooks, manager at Wyndham Grand Desert (3-Star hotel) who is keen to perform SWOT analysis based on travelers’ feedback (review score). Chris would like to assess Wyndham’s strengths, weaknesses, opportunities, and threats with respect to other 3-Star hotels in the region (competitors).</description>
     </item>
     
+    <item>
+      <title>Sales: PowerBI Dashboard</title>
+      <link>https://vwaghmare111.github.io/dashboards/dashboard-2/</link>
+      <pubDate>Wed, 31 Mar 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://vwaghmare111.github.io/dashboards/dashboard-2/</guid>
+      <description>Objective: Interactive dashboard for auto spares/accessories sales data for period 2003 to 2005.
+Dataset: ClassicModels sample MySQL database from MySQL website.
+Observations:
+ From Quarterly moving average, July to July seasonal cycle is evident. USA is most important regions w.r.t. Sales. USA, Spain, and France contributes 62.23% of the sales. Euro+Shopping Channel is the most important customer who orders products related to Classic Cars. Efforts should be made to reduce cancellation and dispute of orders to increase the sales.</description>
+    </item>
+    
   </channel>
 </rss>
