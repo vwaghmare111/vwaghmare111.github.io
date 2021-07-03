@@ -50,6 +50,61 @@ Part 1: Exploratory Data Analysis Part 2: Clustering Analysis, and identify the 
     </item>
     
     <item>
+      <title>Integrated Borrowers Rating Model</title>
+      <link>https://vwaghmare111.github.io/excel/project-1/</link>
+      <pubDate>Fri, 28 May 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://vwaghmare111.github.io/excel/project-1/</guid>
+      <description>This is a demo version of the model made for RMA India. Full license of the model is with Risk Management Associates, Pune. India. Model is based on VBA macro for three different industries namely; manufacturing, trading, service. As financial ratios are different for each industry; Financial statement formats dynamically changes as per industry selected by the user on Cover page. Please read user instructions for details.
+Link to the file</description>
+    </item>
+    
+    <item>
+      <title>MySQL with VBA macro</title>
+      <link>https://vwaghmare111.github.io/excel/project-2/</link>
+      <pubDate>Fri, 28 May 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://vwaghmare111.github.io/excel/project-2/</guid>
+      <description>ClassicModels.xlsm is a simple macro to extract data from MySQL database and load it on excel spreadsheet. It contains three macros;
+ Extract list of tables from the database Load data from selected table on excel spreadsheet Clear loaded data and list of tables from excel spreadsheet  Copy MySQL ClassicModels database in below path. Please note, path might be different on your computer.
+C:\ProgramData\MySQL\MySQL Server 8.0\Data
+Enter server details on Worksheet 1.</description>
+    </item>
+    
+    <item>
+      <title>Project Appraisal including sensitivity analysis with VBA macro</title>
+      <link>https://vwaghmare111.github.io/excel/project-3/</link>
+      <pubDate>Fri, 28 May 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://vwaghmare111.github.io/excel/project-3/</guid>
+      <description>Project appraisal with sensitivity and scenario analysis is not only crucial bankers and businesses to check financial feasibility of the project. Every project begins with estimated values of expenses, interest rates, income, inflation etc. Thus, testing sensitivity of capital budgeting tools such as Net Present Value (NPV), Internal Rate of Return (IRR) of estimated income against changes key estimated variables.
+Quality Cables project contains sensitivity analysis along with Monte Carlo simulation with 100 paths.</description>
+    </item>
+    
+    <item>
+      <title>Case study - Business analysis for a car insurance brokerage service</title>
+      <link>https://vwaghmare111.github.io/excel/project-4/</link>
+      <pubDate>Thu, 27 May 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://vwaghmare111.github.io/excel/project-4/</guid>
+      <description>This case study involves analyzing sample customers data with their demographics, broker, insurer, savings, and satisfcation using descriptive statistics, hypothesis testing, ANOVA test including simple effect analysis
+Link to the file
+Link to case study report</description>
+    </item>
+    
+    <item>
+      <title>Case study - Business analysis for a superstore</title>
+      <link>https://vwaghmare111.github.io/excel/project-5/</link>
+      <pubDate>Thu, 27 May 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://vwaghmare111.github.io/excel/project-5/</guid>
+      <description>This case study involves analyzing data for 150 superstores with financial performance, manager details, competitors, car space availibility, online presnce etc. Descriptive statistics, regression, ANOVA, interaction effect, logistic regression, and timeseries forecasting techniques are used in excel
+Link to Case study
+Link to the file
+Link to case study report</description>
+    </item>
+    
+    <item>
       <title>International Students Forecast using ARIMA and LSTM</title>
       <link>https://vwaghmare111.github.io/post/project-2/</link>
       <pubDate>Thu, 27 May 2021 11:00:59 -0400</pubDate>
@@ -82,7 +137,7 @@ Fashion-MNIST is a dataset of Zalando&amp;rsquo;s article images—consisting of
     </item>
     
     <item>
-      <title>Descriptive statistics and NLP on JobPostings data from Kaggle</title>
+      <title>Descriptive statistics on JobPostings data from Kaggle using NLTK</title>
       <link>https://vwaghmare111.github.io/post/project-6/</link>
       <pubDate>Mon, 24 May 2021 11:00:59 -0400</pubDate>
       
@@ -158,9 +213,20 @@ Audience: User of the dashboard created using Las Vegas dataset is Chris Brooks,
       <description>Objective: This was rigorous task involving solving problems mathematically manually and then by R programming. It covered basic topics from Probability, Bayesian Statistics, Clustering, Mixed Gaussian Distribution.
 Dataset: HeronIslandWaterTemp.csv IOCdata2020.txt LZIsData.csv
 Models: Linear regression, Kmeans clustering, NormalMix MOdels
-  Click for list of questions
-Click for complete solution
+  Click for complete solution
 Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Sales: PowerBI Dashboard</title>
+      <link>https://vwaghmare111.github.io/dashboards/dashboard-2/</link>
+      <pubDate>Wed, 31 Mar 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://vwaghmare111.github.io/dashboards/dashboard-2/</guid>
+      <description>Objective: Interactive dashboard for auto spares/accessories sales data for period 2003 to 2005.
+Dataset: ClassicModels sample MySQL database from MySQL website.
+Observations:
+ From Quarterly moving average, July to July seasonal cycle is evident. USA is most important regions w.r.t. Sales. USA, Spain, and France contributes 62.23% of the sales. Euro+Shopping Channel is the most important customer who orders products related to Classic Cars. Efforts should be made to reduce cancellation and dispute of orders to increase the sales.</description>
     </item>
     
     <item>
@@ -172,8 +238,7 @@ Link to Github Repository</description>
       <description>Objective: This was rigorous task involving solving problems using Graph theory and Bayesian network and its inference on hailfinder dataset.
 Dataset: hailfinder
 Models: Graph theory and Bayesian Network
-  Click for list of questions
-Click for complete solution
+  Click for complete solution
 Link to Github Repository</description>
     </item>
     

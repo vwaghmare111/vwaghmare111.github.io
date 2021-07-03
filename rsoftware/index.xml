@@ -27,8 +27,7 @@ Models: Aggregation functions Weighted Arithmetic Mean (WAM), Weighted power mea
       <description>Objective: This was rigorous task involving solving problems mathematically manually and then by R programming. It covered basic topics from Probability, Bayesian Statistics, Clustering, Mixed Gaussian Distribution.
 Dataset: HeronIslandWaterTemp.csv IOCdata2020.txt LZIsData.csv
 Models: Linear regression, Kmeans clustering, NormalMix MOdels
-  Click for list of questions
-Click for complete solution
+  Click for complete solution
 Link to Github Repository</description>
     </item>
     
@@ -41,8 +40,7 @@ Link to Github Repository</description>
       <description>Objective: This was rigorous task involving solving problems using Graph theory and Bayesian network and its inference on hailfinder dataset.
 Dataset: hailfinder
 Models: Graph theory and Bayesian Network
-  Click for list of questions
-Click for complete solution
+  Click for complete solution
 Link to Github Repository</description>
     </item>
     
