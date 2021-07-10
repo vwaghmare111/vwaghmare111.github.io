@@ -9,7 +9,7 @@
     <meta name="description" content="Objective: Interactive dashboard for auto spares/accessories sales data for period 2003 to 2005.
 Dataset: ClassicModels sample MySQL database from MySQL website.
 Observations:
- From Quarterly moving average, July to July seasonal cycle is evident. USA is most important regions w.r.t. Sales. USA, Spain, and France contributes 62.23% of the sales. Euro&#43;Shopping Channel is the most important customer who orders products related to Classic Cars. Efforts should be made to reduce cancellation and dispute of orders to increase the sales.">
+  SalesSummary page informs customer Year till date (YTD) of the report and allows user to select date range and/or operational country. Map provides quick preview of geographical density of Sales in dollars (assumed to be all converted to base USD). Monthly time series plot provides preview on monthly trend in sales data.">
     <meta name="generator" content="Hugo 0.78.2" />
     
     
@@ -37,7 +37,7 @@ Observations:
 <meta property="og:description" content="Objective: Interactive dashboard for auto spares/accessories sales data for period 2003 to 2005.
 Dataset: ClassicModels sample MySQL database from MySQL website.
 Observations:
- From Quarterly moving average, July to July seasonal cycle is evident. USA is most important regions w.r.t. Sales. USA, Spain, and France contributes 62.23% of the sales. Euro&#43;Shopping Channel is the most important customer who orders products related to Classic Cars. Efforts should be made to reduce cancellation and dispute of orders to increase the sales." />
+  SalesSummary page informs customer Year till date (YTD) of the report and allows user to select date range and/or operational country. Map provides quick preview of geographical density of Sales in dollars (assumed to be all converted to base USD). Monthly time series plot provides preview on monthly trend in sales data." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://vwaghmare111.github.io/dashboards/dashboard-2/" />
 <meta property="article:published_time" content="2021-03-31T10:58:08-04:00" />
@@ -46,10 +46,10 @@ Observations:
 <meta itemprop="description" content="Objective: Interactive dashboard for auto spares/accessories sales data for period 2003 to 2005.
 Dataset: ClassicModels sample MySQL database from MySQL website.
 Observations:
- From Quarterly moving average, July to July seasonal cycle is evident. USA is most important regions w.r.t. Sales. USA, Spain, and France contributes 62.23% of the sales. Euro&#43;Shopping Channel is the most important customer who orders products related to Classic Cars. Efforts should be made to reduce cancellation and dispute of orders to increase the sales.">
+  SalesSummary page informs customer Year till date (YTD) of the report and allows user to select date range and/or operational country. Map provides quick preview of geographical density of Sales in dollars (assumed to be all converted to base USD). Monthly time series plot provides preview on monthly trend in sales data.">
 <meta itemprop="datePublished" content="2021-03-31T10:58:08-04:00" />
 <meta itemprop="dateModified" content="2021-03-31T10:58:08-04:00" />
-<meta itemprop="wordCount" content="117">
+<meta itemprop="wordCount" content="410">
 
 
 
@@ -59,7 +59,7 @@ Observations:
 <meta name="twitter:description" content="Objective: Interactive dashboard for auto spares/accessories sales data for period 2003 to 2005.
 Dataset: ClassicModels sample MySQL database from MySQL website.
 Observations:
- From Quarterly moving average, July to July seasonal cycle is evident. USA is most important regions w.r.t. Sales. USA, Spain, and France contributes 62.23% of the sales. Euro&#43;Shopping Channel is the most important customer who orders products related to Classic Cars. Efforts should be made to reduce cancellation and dispute of orders to increase the sales."/>
+  SalesSummary page informs customer Year till date (YTD) of the report and allows user to select date range and/or operational country. Map provides quick preview of geographical density of Sales in dollars (assumed to be all converted to base USD). Monthly time series plot provides preview on monthly trend in sales data."/>
 
 	
   </head>
@@ -217,13 +217,25 @@ Interactive dashboard for auto spares/accessories sales data for period 2003 to 
 ClassicModels sample MySQL database from MySQL website.</p>
 <p>Observations:</p>
 <ol>
-<li>From Quarterly moving average, July to July seasonal cycle is evident.</li>
-<li>USA is most important regions w.r.t. Sales.</li>
-<li>USA, Spain, and France contributes 62.23% of the sales.</li>
-<li>Euro+Shopping Channel is the most important customer who orders products related to Classic Cars. Efforts should be made to reduce cancellation and dispute of orders to increase the sales.</li>
-<li>Overall, products related to CLassic Cars and Motorcycle has higher demand.</li>
+<li>
+<p>SalesSummary page informs customer Year till date (YTD) of the report and allows user to select date range and/or operational country.
+Map provides quick preview of geographical density of Sales in dollars (assumed to be all converted to base USD). Monthly time series plot provides preview on monthly trend in sales data. Also, a quick preview over sales by customers in table format becomes handy to view few customers.</p>
+</li>
+<li>
+<p>Sales Decomposition - Monthly sales timeseries plot is linked with the decomposition. It provides plot if only USA is selected (first filter), and all customer names within USA if customer name (second filter) is selected. Thus, decomposition provides overall till date summary in one figure, whereas time series provide view on historical trend.</p>
+</li>
+<li>
+<p>Product profitability - Gross profit (GP) is calculated using DAX function based on quantity ordered, sale price/unit, buy price/unit. Monthly GP timeseries plot is linked with the decomposition. It provides plot if only Product Category is selected (first filter), and all product names within selected product category if product names (second filter) is selected. Thus, decomposition provides overall till date summary in one figure, whereas time series provide view on historical trend.</p>
+</li>
+<li>
+<p>Product basket analysis - This slide represents product basket analysis using Apriori algorithm for association rules in python script using PyCaret package. Variables used were order numbers and product category or line. Lift is the likelihood of association rule, thus top 20 records w.r.t. lift is selected. Decomposition plot suggests that when products related Vintage Cars and Trains are bought, then there are high chances of customers buying products related to Classic cars, and/or Ships. Funnel provides preview on which products categories are likely to be bought as consequents. Scatter plot provides option to user to choose desired level of support, confidence, and lift.</p>
+</li>
 </ol>
-<p>Note: Unfortunately, due to limited access to PowrBI, users having access to PowerBI can we view this report. Please use your sign in details to view this report.</p>
+<p><a href="https://vwaghmare111.github.io/images/ClassicModels.pptx">Link to ppt</a></p>
+<ol start="5">
+<li>Sales rep performance - Sales representatives key KPI is sales. Monthly rep wise sales timeseries plot is linked with the decomposition. It provides plot country wise (first filter), and all sales rep names within that country if sales rep name (second filter) is selected. Thus, decomposition provides overall till date summary in one figure, whereas time series provide view on historical trend.</li>
+</ol>
+<p>Note: Unfortunately, due to limited access to PowrBI, users may have no access to this report. Please check powerpoint presentation if report is not accessible.</p>
 <html>
 <head></head>
 <body>
