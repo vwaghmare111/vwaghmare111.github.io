@@ -29,6 +29,16 @@ Source data is from the research paper &amp;ldquo;A data-driven approach to mode
     </item>
     
     <item>
+      <title>Predict Insurance Premium - Flask, Docker, MicrosoftAzure</title>
+      <link>https://vwaghmare111.github.io/post/project-12/</link>
+      <pubDate>Sat, 29 May 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://vwaghmare111.github.io/post/project-12/</guid>
+      <description>This is a web app using Linear regression model on six independent variables to predict insurance premium. Flask, python, environment was standardized using Docker container which was deployed on MicrosoftAzure Web service.
+Link to the webapp</description>
+    </item>
+    
+    <item>
       <title>PySpark SQL - Classification and Clustering</title>
       <link>https://vwaghmare111.github.io/post/project-7/</link>
       <pubDate>Sat, 29 May 2021 11:00:59 -0400</pubDate>
